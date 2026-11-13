@@ -3,7 +3,7 @@
 	// DB Config
 	$servername = "localhost";
 	$username = "xotraffi_mvga_admin";
-	$password = "yj4wPhKi98UcU2S@";
+	$password = "";
 	$dbname = "xotraffi_mvgaaa";
 
 	// Create connection
