@@ -1,0 +1,55 @@
+.bg-mvga{
+	background-color: #fff;
+}
+.bg-p {
+    background-image: url(../img/mvgaa-seal-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 603px !important;
+}
+.bg-mvga-orange{
+	background-color: #bf8e41;
+}
+.bg-mvga-orange-darker{
+	background-color: #b37a37;
+}
+
+.text-mvga-orange{
+	color: #bf8e41;
+}
+.ahref-black {
+	color: black !important;
+}
+.ahref-white {
+	color: white !important;
+}
+.btn-mvga {
+    color: #000;
+    background-color: #bf8e41;
+    border-color: #bf8e41;
+}
+.btn-mvga:hover {
+    color: #000;
+    background-color: #b37a37;
+    border-color: #b37a37;
+}
+.gmd {
+  background: #fff;
+  border-radius: 2px;
+  display: block;
+  float: left;
+  position: relative;
+}
+
+.gmd-1 {
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -ms-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
